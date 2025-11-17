@@ -1,0 +1,83 @@
+========================================
+EXEMPLO 1 - EMAIL PRODUTIVO
+========================================
+Assunto: Urgente - Sistema Fora do Ar
+
+Prezada equipe de TI,
+
+O sistema de pagamentos está apresentando erro 502 desde 14h30.
+Já tentamos reiniciar mas o problema persiste.
+
+Precisamos de ajuda urgente!
+
+João Silva - Gerente de Operações
+
+========================================
+EXEMPLO 2 - EMAIL IMPRODUTIVO
+========================================
+Assunto: Feliz Natal!
+
+Olá pessoal,
+
+Desejo a todos um Feliz Natal e um próspero Ano Novo!
+Aproveitem as festas!
+
+Abraços,
+Maria Santos
+
+========================================
+EXEMPLO 3 - EMAIL PRODUTIVO
+========================================
+Assunto: Dúvida sobre Boleto
+
+Olá,
+
+Meu boleto venceu ontem. Como gerar segunda via?
+Há multa ou juros?
+
+Aguardo orientações.
+Ana Paula
+
+========================================
+EXEMPLO 4 - EMAIL IMPRODUTIVO
+========================================
+Assunto: Obrigado!
+
+Oi equipe,
+
+Só queria agradecer pelo excelente atendimento de ontem.
+Vocês são ótimos!
+
+Valeu!
+Carlos
+
+========================================
+EXEMPLO 5 - EMAIL PRODUTIVO
+========================================
+Assunto: Relatório Pendências
+
+Bom dia,
+
+Segue relatório com:
+- 15 tickets em aberto
+- 3 chamados críticos
+- 2 solicitações aguardando
+
+Precisamos reunião urgente.
+
+Roberto Souza
+
+========================================
+EXEMPLO 6 - EMAIL PRODUTIVO
+========================================
+Assunto: Solicitação de Atualização Cadastral
+
+Prezados,
+
+Preciso atualizar:
+- Endereço: Rua das Flores, 123
+- Telefone: (11) 99999-8888
+
+Confirmem quando concluído.
+
+João Pedro
