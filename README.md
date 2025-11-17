@@ -12,7 +12,7 @@
 
 </div>
 
-[Design-sem-nome.gif](https://postimg.cc/3d5WBNg9)
+[![Design-sem-nome.gif](https://i.postimg.cc/sD1S3Z1F/Design-sem-nome.gif)](https://postimg.cc/3d5WBNg9)
 
 ## 📋 Sobre o Projeto
 
